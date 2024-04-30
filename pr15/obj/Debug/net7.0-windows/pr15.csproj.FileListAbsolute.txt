@@ -1,0 +1,8 @@
+C:\Users\st305a05\OneDrive\Рабочий стол\Зелина Пр-21\pr15\obj\Debug\net7.0-windows\pr15.csproj.AssemblyReference.cache
+C:\Users\st305a05\OneDrive\Рабочий стол\Зелина Пр-21\pr15\obj\Debug\net7.0-windows\pr15.Form1.resources
+C:\Users\st305a05\OneDrive\Рабочий стол\Зелина Пр-21\pr15\obj\Debug\net7.0-windows\pr15.Properties.Resources.resources
+C:\Users\st305a05\OneDrive\Рабочий стол\Зелина Пр-21\pr15\obj\Debug\net7.0-windows\pr15.csproj.GenerateResource.cache
+C:\Users\st305a05\OneDrive\Рабочий стол\Зелина Пр-21\pr15\obj\Debug\net7.0-windows\pr15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\st305a05\OneDrive\Рабочий стол\Зелина Пр-21\pr15\obj\Debug\net7.0-windows\pr15.AssemblyInfoInputs.cache
+C:\Users\st305a05\OneDrive\Рабочий стол\Зелина Пр-21\pr15\obj\Debug\net7.0-windows\pr15.AssemblyInfo.cs
+C:\Users\st305a05\OneDrive\Рабочий стол\Зелина Пр-21\pr15\obj\Debug\net7.0-windows\pr15.csproj.CoreCompileInputs.cache
